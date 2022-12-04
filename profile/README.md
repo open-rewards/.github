@@ -11,3 +11,12 @@ We build this tool as a public good and think has a large impact on the open sou
 1. An on-chain guild that wants to incentivize content creation
 2. A protocol that wants to connect IRL events with on chain incentives.
 
+## Main Address used for testing:
+
+Account: https://mumbai.polygonscan.com/address/0x3318D69069846380CEE4A1c390b65Dcf2c7A592E
+
+Deployed Contracts Eg:
+* https://mumbai.polygonscan.com/address/0x3262b3aa02083c160ca5b44f586d9190734ad278
+* https://mumbai.polygonscan.com/address/0x49d86318caf826ef098f1120adf8b451153864b6
+* https://mumbai.polygonscan.com/address/0xd59d86fe3caed126940345b6aa162571137a11ae
+* https://mumbai.polygonscan.com/address/0xd59d86fe3caed126940345b6aa162571137a11ae
